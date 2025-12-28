@@ -1,0 +1,7 @@
+{
+  "name": "MicroGuard AI: Micro-Region Disaster Early-Warning System",
+  "description": "An innovative AI-powered system providing hyper-local disaster predictions for villages and small towns using Gemini API to analyze weather trends and social media signals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
